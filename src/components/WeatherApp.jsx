@@ -23,6 +23,7 @@ const allIcons ={
     "02n": cloudIcon,
     "03d": cloudIcon,
     "03n": cloudIcon,
+    "50d": cloudIcon,
     "04d": drizzleIcon,
     "04n": drizzleIcon,
     "09d": rainIcon,
